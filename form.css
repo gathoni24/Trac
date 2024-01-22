@@ -1,0 +1,23 @@
+img{
+    width: 15%;
+}
+body{
+    background-image:url("Pictures/background.jfif");
+     background-repeat: no-repeat;
+    background-size:cover;
+
+}
+form{
+    background-color: white;
+    width: 50%;
+    margin-top: 150px;
+    height: 350px;
+    margin-left:200px;
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    text-align: center;
+}

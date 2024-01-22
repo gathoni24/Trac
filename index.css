@@ -1,0 +1,8 @@
+table,th,td{
+    border:black solid ;
+}
+table{
+    width:80%;
+    height:30px;
+    margin-top: 0px;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+   margin-left: 100px;
+    font-family: Arial;
+}
+img{
+    margin-left: 500px;
+}
+h1{
+    margin-left: 450px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+hr{
+    color: cornflowerblue;
+}
+h3{
+    color: coral;
+}
